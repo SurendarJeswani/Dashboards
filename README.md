@@ -1,2 +1,2 @@
 # Dashboards
-Sales Dashboard and Hospital Dashboard
+Project on Sales Data Dashboard and Hospital Data Dashboard
